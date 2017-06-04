@@ -10,8 +10,8 @@
   },
   "content_scripts":[
     {
-      "matches": ["https://www.duolingo.com/skill/es/**/practice"],
-      "js": ["arrive-2.0.0.min.js", "clicker.js"],
+      "matches": ["https://www.duolingo.com/**"],
+      "js": ["node_modules/arrive/minified/arrive.min.js", "clicker.js"],
       "run_at" : "document_end"
     }
   ]

@@ -1,0 +1,19 @@
+{
+  "name": "duolingo-binge",
+  "version": "1.0.0",
+  "description": "A chrome extension to automatically click the 'Next' button in Duolingo lessons.",
+  "main": "arrive-2.0.0.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/benissler/duolingo-binge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/benissler/duolingo-binge#readme",
+  "dependencies": {
+    "arrive": "^2.3.1"
+  }
+}
