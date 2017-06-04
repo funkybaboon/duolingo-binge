@@ -1,6 +1,6 @@
 A chrome extension to automatically start and end duolingo lessons. Saves three mouse clicks per lesson.
 
-Download on the [Chrome Webstore](https://chrome.google.com/webstore/detail/duolingo-binge/fbmkgmcpggolmkdjjgmjeacpkefiddcp "Chrome Webstore").
+Install from the [Chrome Webstore](https://chrome.google.com/webstore/detail/duolingo-binge/fbmkgmcpggolmkdjjgmjeacpkefiddcp "Chrome Webstore").
 
 
 Uses [arrive.js](https://github.com/uzairfarooq/arrive), a mutation observer library, to wait for a button to appear.
