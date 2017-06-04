@@ -12,7 +12,7 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/benissler/duolingo-binge#readme",
+  "homepage": "https://github.com/funkybaboon/duolingo-binge",
   "dependencies": {
     "arrive": "^2.3.1"
   }
