@@ -1,8 +1,9 @@
 {
   "manifest_version": 2,
   "name": "Duolingo Binge",
+  "short_name": "Duo Binge",
   "description": "Automatically click 'Next' in Duolingo",
-  "version": "1.0",
+  "version": "1.1",
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
@@ -11,7 +12,7 @@
   "content_scripts":[
     {
       "matches": ["https://www.duolingo.com/**"],
-      "js": ["node_modules/arrive/minified/arrive.min.js", "clicker.js"],
+      "js": ["arrive.min.js", "clicker.js"],
       "run_at" : "document_end"
     }
   ]
