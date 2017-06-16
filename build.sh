@@ -4,7 +4,7 @@ npm install
 
 cp -v node_modules/arrive/minified/arrive.min.js .
 
-rm *.zip
+rm -v *.zip
 
 now=$(date +"%Y%m%d_%H%M")
 
