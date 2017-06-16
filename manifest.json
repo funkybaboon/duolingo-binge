@@ -3,7 +3,7 @@
   "name": "Duolingo Binge",
   "short_name": "Duo Binge",
   "description": "Automatically click 'Next' in Duolingo",
-  "version": "1.1",
+  "version": "2.0",
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
